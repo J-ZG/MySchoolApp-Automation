@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         MySchoolApp Automation
-// @namespace    https://github.com/0dpe/MySchoolApp-Automation
+// @namespace    https://github.com/J-ZG/MySchoolApp-Automation
 // @version      1.0
 // @description  Automatically clicks buttons in the Blackbaud MySchoolApp student portal.
 // @author       Odpe
 // @match        https://*.myschoolapp.com/app*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/0dpe/MySchoolApp-Automation/main/MySchoolApp-Automation.js
-// @updateURL    https://raw.githubusercontent.com/0dpe/MySchoolApp-Automation/main/MySchoolApp-Automation.js
+// @downloadURL  https://raw.githubusercontent.com/J-ZG/MySchoolApp-Automation/main/MySchoolApp-Automation.js
+// @updateURL    https://raw.githubusercontent.com/J-ZG/MySchoolApp-Automation/main/MySchoolApp-Automation.js
 // ==/UserScript==
 
 

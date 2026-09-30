@@ -1,7 +1,7 @@
 # MySchoolApp-Automation 🤖
 In [Violentmonkey](https://violentmonkey.github.io/get-it/), install the latest version with this link:
 ```
-https://raw.githubusercontent.com/0dpe/MySchoolApp-Automation/main/MySchoolApp-Automation.js
+https://raw.githubusercontent.com/J-ZG/MySchoolApp-Automation/main/MySchoolApp-Automation.js
 ```
 ## Functionalities 🦾
 * On the login page, clicks the **Next** button if the email address field contains '**@**' and the **Remember me** checkbox is checked.
